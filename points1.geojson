@@ -1,0 +1,612 @@
+{"type": "FeatureCollection", "features": [
+{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 1, "ROUTE": "S HARRINGTON ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 2, "ROUTE": "S HARRINGTON ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.78]}, "properties": {"FID": 3, "ROUTE": "S HARRINGTON ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.777]}, "properties": {"FID": 4, "ROUTE": "S HARRINGTON ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.777]}, "properties": {"FID": 5, "ROUTE": "S HARRINGTON ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.777]}, "properties": {"FID": 6, "ROUTE": "S HARRINGTON ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.778]}, "properties": {"FID": 7, "ROUTE": "S HARRINGTON ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.778]}, "properties": {"FID": 8, "ROUTE": "S HARRINGTON ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.778]}, "properties": {"FID": 9, "ROUTE": "S HARRINGTON ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.778]}, "properties": {"FID": 10, "ROUTE": "S HARRINGTON ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.778]}, "properties": {"FID": 11, "ROUTE": "S HARRINGTON ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 12, "ROUTE": "S HARRINGTON ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 13, "ROUTE": "S HARRINGTON ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 14, "ROUTE": "S HARRINGTON ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 15, "ROUTE": "S HARRINGTON ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 16, "ROUTE": "S HARRINGTON ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 17, "ROUTE": "S HARRINGTON ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 18, "ROUTE": "S HARRINGTON ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.781]}, "properties": {"FID": 19, "ROUTE": "N SALISBURY ST 1", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.78]}, "properties": {"FID": 20, "ROUTE": "S SALISBURY ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.779]}, "properties": {"FID": 21, "ROUTE": "S SALISBURY ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.779]}, "properties": {"FID": 22, "ROUTE": "S SALISBURY ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.779]}, "properties": {"FID": 23, "ROUTE": "S SALISBURY ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.781]}, "properties": {"FID": 24, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.781]}, "properties": {"FID": 25, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.781]}, "properties": {"FID": 26, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.78]}, "properties": {"FID": 27, "ROUTE": "S HARRINGTON ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.78]}, "properties": {"FID": 28, "ROUTE": "S HARRINGTON ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.78]}, "properties": {"FID": 29, "ROUTE": "S HARRINGTON ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.78]}, "properties": {"FID": 30, "ROUTE": "W MORGAN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.78]}, "properties": {"FID": 31, "ROUTE": "S HARRINGTON ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.78]}, "properties": {"FID": 32, "ROUTE": "S HARRINGTON ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.781]}, "properties": {"FID": 33, "ROUTE": "N HARRINGTON ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.78]}, "properties": {"FID": 34, "ROUTE": "S HARRINGTON ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.781]}, "properties": {"FID": 35, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.781]}, "properties": {"FID": 36, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.781]}, "properties": {"FID": 37, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.781]}, "properties": {"FID": 38, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.781]}, "properties": {"FID": 39, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.781]}, "properties": {"FID": 40, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.781]}, "properties": {"FID": 41, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.781]}, "properties": {"FID": 42, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 43, "ROUTE": "S HARRINGTON ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 44, "ROUTE": "S HARRINGTON ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 45, "ROUTE": "S HARRINGTON ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 46, "ROUTE": "S HARRINGTON ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.778]}, "properties": {"FID": 47, "ROUTE": "S HARRINGTON ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.778]}, "properties": {"FID": 48, "ROUTE": "S HARRINGTON ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.778]}, "properties": {"FID": 49, "ROUTE": "S HARRINGTON ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.779]}, "properties": {"FID": 50, "ROUTE": "S SALISBURY ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 51, "ROUTE": "S HARRINGTON ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 52, "ROUTE": "S HARRINGTON ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.781]}, "properties": {"FID": 53, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.781]}, "properties": {"FID": 54, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.781]}, "properties": {"FID": 55, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.781]}, "properties": {"FID": 56, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.781]}, "properties": {"FID": 57, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.781]}, "properties": {"FID": 58, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.781]}, "properties": {"FID": 59, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.781]}, "properties": {"FID": 60, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.781]}, "properties": {"FID": 61, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.781]}, "properties": {"FID": 62, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.781]}, "properties": {"FID": 63, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.781]}, "properties": {"FID": 64, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.781]}, "properties": {"FID": 65, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.78]}, "properties": {"FID": 66, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.78]}, "properties": {"FID": 67, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.78]}, "properties": {"FID": 68, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.78]}, "properties": {"FID": 69, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.78]}, "properties": {"FID": 70, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.78]}, "properties": {"FID": 71, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.78]}, "properties": {"FID": 72, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 73, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 74, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.781]}, "properties": {"FID": 75, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.78]}, "properties": {"FID": 76, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 77, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 78, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 79, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 80, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 81, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 82, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 83, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 84, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 85, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 86, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 87, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 88, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 89, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.78]}, "properties": {"FID": 90, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.78]}, "properties": {"FID": 91, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.78]}, "properties": {"FID": 92, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.78]}, "properties": {"FID": 93, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.78]}, "properties": {"FID": 94, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.78]}, "properties": {"FID": 95, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.781]}, "properties": {"FID": 96, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.781]}, "properties": {"FID": 97, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.781]}, "properties": {"FID": 98, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.781]}, "properties": {"FID": 99, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 100, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 101, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 102, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.78]}, "properties": {"FID": 103, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.78]}, "properties": {"FID": 104, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.78]}, "properties": {"FID": 105, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.781]}, "properties": {"FID": 106, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.781]}, "properties": {"FID": 107, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.781]}, "properties": {"FID": 108, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.781]}, "properties": {"FID": 109, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.781]}, "properties": {"FID": 110, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.781]}, "properties": {"FID": 111, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.781]}, "properties": {"FID": 112, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.781]}, "properties": {"FID": 113, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.781]}, "properties": {"FID": 114, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.781]}, "properties": {"FID": 115, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.781]}, "properties": {"FID": 116, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.781]}, "properties": {"FID": 117, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.781]}, "properties": {"FID": 118, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.781]}, "properties": {"FID": 119, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.781]}, "properties": {"FID": 120, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.781]}, "properties": {"FID": 121, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.781]}, "properties": {"FID": 122, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.781]}, "properties": {"FID": 123, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.781]}, "properties": {"FID": 124, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.781]}, "properties": {"FID": 125, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.781]}, "properties": {"FID": 126, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.781]}, "properties": {"FID": 127, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.781]}, "properties": {"FID": 128, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.778]}, "properties": {"FID": 129, "ROUTE": "S HARRINGTON ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.778]}, "properties": {"FID": 130, "ROUTE": "S HARRINGTON ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 131, "ROUTE": "S HARRINGTON ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.781]}, "properties": {"FID": 132, "ROUTE": "N HARRINGTON ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.779]}, "properties": {"FID": 133, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.779]}, "properties": {"FID": 134, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.779]}, "properties": {"FID": 135, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.779]}, "properties": {"FID": 136, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 137, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 138, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 139, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 140, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 141, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.781]}, "properties": {"FID": 142, "ROUTE": "N MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.781]}, "properties": {"FID": 143, "ROUTE": "N MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.779]}, "properties": {"FID": 144, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.779]}, "properties": {"FID": 145, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.779]}, "properties": {"FID": 146, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.779]}, "properties": {"FID": 147, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.779]}, "properties": {"FID": 148, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.779]}, "properties": {"FID": 149, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.779]}, "properties": {"FID": 150, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 151, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 152, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 153, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 154, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 155, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 156, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 157, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.781]}, "properties": {"FID": 158, "ROUTE": "N MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.781]}, "properties": {"FID": 159, "ROUTE": "N MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.781]}, "properties": {"FID": 160, "ROUTE": "N DAWSON ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.781]}, "properties": {"FID": 161, "ROUTE": "N DAWSON ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.778]}, "properties": {"FID": 162, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.778]}, "properties": {"FID": 163, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.778]}, "properties": {"FID": 164, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.778]}, "properties": {"FID": 165, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.778]}, "properties": {"FID": 166, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.778]}, "properties": {"FID": 167, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.778]}, "properties": {"FID": 168, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.778]}, "properties": {"FID": 169, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.781]}, "properties": {"FID": 170, "ROUTE": "N DAWSON ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.78]}, "properties": {"FID": 171, "ROUTE": "S DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.78]}, "properties": {"FID": 172, "ROUTE": "S DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.78]}, "properties": {"FID": 173, "ROUTE": "S DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.78]}, "properties": {"FID": 174, "ROUTE": "S DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.78]}, "properties": {"FID": 175, "ROUTE": "S DAWSON ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.779]}, "properties": {"FID": 176, "ROUTE": "S DAWSON ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.779]}, "properties": {"FID": 177, "ROUTE": "S DAWSON ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.779]}, "properties": {"FID": 178, "ROUTE": "S DAWSON ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.779]}, "properties": {"FID": 179, "ROUTE": "S DAWSON ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.779]}, "properties": {"FID": 180, "ROUTE": "S DAWSON ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.779]}, "properties": {"FID": 181, "ROUTE": "S DAWSON ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.779]}, "properties": {"FID": 182, "ROUTE": "S DAWSON ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.778]}, "properties": {"FID": 183, "ROUTE": "S DAWSON ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.778]}, "properties": {"FID": 184, "ROUTE": "S DAWSON ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.778]}, "properties": {"FID": 185, "ROUTE": "S DAWSON ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.778]}, "properties": {"FID": 186, "ROUTE": "S DAWSON ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.777]}, "properties": {"FID": 187, "ROUTE": "S DAWSON ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.777]}, "properties": {"FID": 188, "ROUTE": "S DAWSON ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.777]}, "properties": {"FID": 189, "ROUTE": "S DAWSON ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.777]}, "properties": {"FID": 190, "ROUTE": "S DAWSON ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.777]}, "properties": {"FID": 191, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.777]}, "properties": {"FID": 192, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.777]}, "properties": {"FID": 193, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.777]}, "properties": {"FID": 194, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.778]}, "properties": {"FID": 195, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.778]}, "properties": {"FID": 196, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.778]}, "properties": {"FID": 197, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.778]}, "properties": {"FID": 198, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.778]}, "properties": {"FID": 199, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.778]}, "properties": {"FID": 200, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.779]}, "properties": {"FID": 201, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.779]}, "properties": {"FID": 202, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.779]}, "properties": {"FID": 203, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.779]}, "properties": {"FID": 204, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 205, "ROUTE": "W MORGAN ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.78]}, "properties": {"FID": 206, "ROUTE": "W MORGAN ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.78]}, "properties": {"FID": 207, "ROUTE": "W MORGAN ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.78]}, "properties": {"FID": 208, "ROUTE": "W MORGAN ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.78]}, "properties": {"FID": 209, "ROUTE": "W MORGAN ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.778]}, "properties": {"FID": 210, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.778]}, "properties": {"FID": 211, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.778]}, "properties": {"FID": 212, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.779]}, "properties": {"FID": 213, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 214, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 215, "ROUTE": "W MORGAN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 216, "ROUTE": "W MORGAN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 217, "ROUTE": "W MORGAN ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 218, "ROUTE": "W MORGAN ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 219, "ROUTE": "W MORGAN ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 220, "ROUTE": "W MORGAN ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.778]}, "properties": {"FID": 221, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.778]}, "properties": {"FID": 222, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.778]}, "properties": {"FID": 223, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.778]}, "properties": {"FID": 224, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.778]}, "properties": {"FID": 225, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.778]}, "properties": {"FID": 226, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.778]}, "properties": {"FID": 227, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.778]}, "properties": {"FID": 228, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.778]}, "properties": {"FID": 229, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 230, "ROUTE": "W MORGAN ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.777]}, "properties": {"FID": 231, "ROUTE": "W MARTIN ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.777]}, "properties": {"FID": 232, "ROUTE": "W MARTIN ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.777]}, "properties": {"FID": 233, "ROUTE": "W MARTIN ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.777]}, "properties": {"FID": 234, "ROUTE": "W MARTIN ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.777]}, "properties": {"FID": 235, "ROUTE": "W MARTIN ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.777]}, "properties": {"FID": 236, "ROUTE": "W MARTIN ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.778]}, "properties": {"FID": 237, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.778]}, "properties": {"FID": 238, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.778]}, "properties": {"FID": 239, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.778]}, "properties": {"FID": 240, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.779]}, "properties": {"FID": 241, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.779]}, "properties": {"FID": 242, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 243, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 244, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 245, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 246, "ROUTE": "W MORGAN ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 247, "ROUTE": "W MORGAN ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 248, "ROUTE": "W MORGAN ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 249, "ROUTE": "W MORGAN ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 250, "ROUTE": "W MORGAN ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 251, "ROUTE": "W MORGAN ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.78]}, "properties": {"FID": 252, "ROUTE": "W MORGAN ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.78]}, "properties": {"FID": 253, "ROUTE": "W MORGAN ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.78]}, "properties": {"FID": 254, "ROUTE": "W MORGAN ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.78]}, "properties": {"FID": 255, "ROUTE": "W MORGAN ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.78]}, "properties": {"FID": 256, "ROUTE": "W MORGAN ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.78]}, "properties": {"FID": 257, "ROUTE": "W MORGAN ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 258, "ROUTE": "W MORGAN ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 259, "ROUTE": "W MORGAN ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.778]}, "properties": {"FID": 260, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.778]}, "properties": {"FID": 261, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.778]}, "properties": {"FID": 262, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.778]}, "properties": {"FID": 263, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.778]}, "properties": {"FID": 264, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.778]}, "properties": {"FID": 265, "ROUTE": "W HARGETT ST 2", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.779]}, "properties": {"FID": 266, "ROUTE": "S MCDOWELL ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.779]}, "properties": {"FID": 267, "ROUTE": "S SALISBURY ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.779]}, "properties": {"FID": 268, "ROUTE": "S SALISBURY ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.779]}, "properties": {"FID": 269, "ROUTE": "S SALISBURY ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.779]}, "properties": {"FID": 270, "ROUTE": "S SALISBURY ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.779]}, "properties": {"FID": 271, "ROUTE": "S SALISBURY ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.778]}, "properties": {"FID": 272, "ROUTE": "S SALISBURY ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.778]}, "properties": {"FID": 273, "ROUTE": "S SALISBURY ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.778]}, "properties": {"FID": 274, "ROUTE": "S SALISBURY ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.777]}, "properties": {"FID": 275, "ROUTE": "S SALISBURY ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.779]}, "properties": {"FID": 276, "ROUTE": "S SALISBURY ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.778]}, "properties": {"FID": 277, "ROUTE": "S SALISBURY ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.778]}, "properties": {"FID": 278, "ROUTE": "S SALISBURY ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.777]}, "properties": {"FID": 279, "ROUTE": "S SALISBURY ST", "STATUS": "Inactive"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 280, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 281, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.781]}, "properties": {"FID": 282, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.781]}, "properties": {"FID": 283, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.781]}, "properties": {"FID": 284, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.781]}, "properties": {"FID": 285, "ROUTE": "N MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.781]}, "properties": {"FID": 286, "ROUTE": "N MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.781]}, "properties": {"FID": 287, "ROUTE": "N MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 288, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 289, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 290, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 291, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 292, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 293, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 294, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.779]}, "properties": {"FID": 295, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.779]}, "properties": {"FID": 296, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.779]}, "properties": {"FID": 297, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.779]}, "properties": {"FID": 298, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.779]}, "properties": {"FID": 299, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.779]}, "properties": {"FID": 300, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.779]}, "properties": {"FID": 301, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.779]}, "properties": {"FID": 302, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.777]}, "properties": {"FID": 303, "ROUTE": "W MARTIN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.777]}, "properties": {"FID": 304, "ROUTE": "W MARTIN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.777]}, "properties": {"FID": 305, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.777]}, "properties": {"FID": 306, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.778]}, "properties": {"FID": 307, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.778]}, "properties": {"FID": 308, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.778]}, "properties": {"FID": 309, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.778]}, "properties": {"FID": 310, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.778]}, "properties": {"FID": 311, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.779]}, "properties": {"FID": 312, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.779]}, "properties": {"FID": 313, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.779]}, "properties": {"FID": 314, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.779]}, "properties": {"FID": 315, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 316, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 317, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 318, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 319, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 320, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 321, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 322, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.78]}, "properties": {"FID": 323, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 324, "ROUTE": "W MORGAN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 325, "ROUTE": "W MORGAN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 326, "ROUTE": "W MORGAN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 327, "ROUTE": "W MORGAN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 328, "ROUTE": "W MORGAN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 329, "ROUTE": "W MORGAN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 330, "ROUTE": "W MORGAN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.78]}, "properties": {"FID": 331, "ROUTE": "W MORGAN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 332, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 333, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.781]}, "properties": {"FID": 334, "ROUTE": "N DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.781]}, "properties": {"FID": 335, "ROUTE": "N DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.781]}, "properties": {"FID": 336, "ROUTE": "N DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.78]}, "properties": {"FID": 337, "ROUTE": "S DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 338, "ROUTE": "S DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.779]}, "properties": {"FID": 339, "ROUTE": "S DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.779]}, "properties": {"FID": 340, "ROUTE": "S DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.779]}, "properties": {"FID": 341, "ROUTE": "S DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.779]}, "properties": {"FID": 342, "ROUTE": "S DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.779]}, "properties": {"FID": 343, "ROUTE": "S DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.779]}, "properties": {"FID": 344, "ROUTE": "S DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.779]}, "properties": {"FID": 345, "ROUTE": "S DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.779]}, "properties": {"FID": 346, "ROUTE": "S DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.779]}, "properties": {"FID": 347, "ROUTE": "S DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.778]}, "properties": {"FID": 348, "ROUTE": "S DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.778]}, "properties": {"FID": 349, "ROUTE": "S DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.778]}, "properties": {"FID": 350, "ROUTE": "S DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.778]}, "properties": {"FID": 351, "ROUTE": "S DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.778]}, "properties": {"FID": 352, "ROUTE": "S DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.777]}, "properties": {"FID": 353, "ROUTE": "S DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.78]}, "properties": {"FID": 354, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.781]}, "properties": {"FID": 355, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.781]}, "properties": {"FID": 356, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.781]}, "properties": {"FID": 357, "ROUTE": "N DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.781]}, "properties": {"FID": 358, "ROUTE": "N DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.781]}, "properties": {"FID": 359, "ROUTE": "N DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.777]}, "properties": {"FID": 360, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.777]}, "properties": {"FID": 361, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.778]}, "properties": {"FID": 362, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.778]}, "properties": {"FID": 363, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.778]}, "properties": {"FID": 364, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.778]}, "properties": {"FID": 365, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.778]}, "properties": {"FID": 366, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.778]}, "properties": {"FID": 367, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.778]}, "properties": {"FID": 368, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.778]}, "properties": {"FID": 369, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.778]}, "properties": {"FID": 370, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.778]}, "properties": {"FID": 371, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.778]}, "properties": {"FID": 372, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.778]}, "properties": {"FID": 373, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.778]}, "properties": {"FID": 374, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.778]}, "properties": {"FID": 375, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.778]}, "properties": {"FID": 376, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.778]}, "properties": {"FID": 377, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.778]}, "properties": {"FID": 378, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.778]}, "properties": {"FID": 379, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.778]}, "properties": {"FID": 380, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.778]}, "properties": {"FID": 381, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.778]}, "properties": {"FID": 382, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.778]}, "properties": {"FID": 383, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.778]}, "properties": {"FID": 384, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.778]}, "properties": {"FID": 385, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.779]}, "properties": {"FID": 386, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.779]}, "properties": {"FID": 387, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.779]}, "properties": {"FID": 388, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.779]}, "properties": {"FID": 389, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.779]}, "properties": {"FID": 390, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.779]}, "properties": {"FID": 391, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.779]}, "properties": {"FID": 392, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.779]}, "properties": {"FID": 393, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.779]}, "properties": {"FID": 394, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 395, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 396, "ROUTE": "W MORGAN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.78]}, "properties": {"FID": 397, "ROUTE": "W MORGAN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.78]}, "properties": {"FID": 398, "ROUTE": "W MORGAN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.78]}, "properties": {"FID": 399, "ROUTE": "W MORGAN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.78]}, "properties": {"FID": 400, "ROUTE": "W MORGAN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.78]}, "properties": {"FID": 401, "ROUTE": "W MORGAN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.78]}, "properties": {"FID": 402, "ROUTE": "W MORGAN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.78]}, "properties": {"FID": 403, "ROUTE": "W MORGAN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.78]}, "properties": {"FID": 404, "ROUTE": "W MORGAN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.78]}, "properties": {"FID": 405, "ROUTE": "W MORGAN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 406, "ROUTE": "W MORGAN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 407, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 408, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 409, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 410, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.781]}, "properties": {"FID": 411, "ROUTE": "N MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.781]}, "properties": {"FID": 412, "ROUTE": "N MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.781]}, "properties": {"FID": 413, "ROUTE": "N MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.781]}, "properties": {"FID": 414, "ROUTE": "N SALISBURY ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.781]}, "properties": {"FID": 415, "ROUTE": "N SALISBURY ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.781]}, "properties": {"FID": 416, "ROUTE": "N SALISBURY ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.778]}, "properties": {"FID": 417, "ROUTE": "S SALISBURY ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.778]}, "properties": {"FID": 418, "ROUTE": "S SALISBURY ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.778]}, "properties": {"FID": 419, "ROUTE": "S SALISBURY ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.778]}, "properties": {"FID": 420, "ROUTE": "S SALISBURY ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.777]}, "properties": {"FID": 421, "ROUTE": "S SALISBURY ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.777]}, "properties": {"FID": 422, "ROUTE": "S SALISBURY ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.778]}, "properties": {"FID": 423, "ROUTE": "S SALISBURY ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.778]}, "properties": {"FID": 424, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.778]}, "properties": {"FID": 425, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.778]}, "properties": {"FID": 426, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.778]}, "properties": {"FID": 427, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.778]}, "properties": {"FID": 428, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.779]}, "properties": {"FID": 429, "ROUTE": "S SALISBURY ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.779]}, "properties": {"FID": 430, "ROUTE": "S SALISBURY ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.777]}, "properties": {"FID": 431, "ROUTE": "S DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.777]}, "properties": {"FID": 432, "ROUTE": "S DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.777]}, "properties": {"FID": 433, "ROUTE": "S DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.779]}, "properties": {"FID": 434, "ROUTE": "S DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.779]}, "properties": {"FID": 435, "ROUTE": "S DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.779]}, "properties": {"FID": 436, "ROUTE": "S DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.779]}, "properties": {"FID": 437, "ROUTE": "S DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.779]}, "properties": {"FID": 438, "ROUTE": "S DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.779]}, "properties": {"FID": 439, "ROUTE": "S DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.78]}, "properties": {"FID": 440, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 441, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.78]}, "properties": {"FID": 442, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.781]}, "properties": {"FID": 443, "ROUTE": "N HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.781]}, "properties": {"FID": 444, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.778]}, "properties": {"FID": 445, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.781]}, "properties": {"FID": 446, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.781]}, "properties": {"FID": 447, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.781]}, "properties": {"FID": 448, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.781]}, "properties": {"FID": 449, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.781]}, "properties": {"FID": 450, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.781]}, "properties": {"FID": 451, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 452, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 453, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 454, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 455, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 456, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 457, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.781]}, "properties": {"FID": 458, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.781]}, "properties": {"FID": 459, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.781]}, "properties": {"FID": 460, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.781]}, "properties": {"FID": 461, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.781]}, "properties": {"FID": 462, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.781]}, "properties": {"FID": 463, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.781]}, "properties": {"FID": 464, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.781]}, "properties": {"FID": 465, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.781]}, "properties": {"FID": 466, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.779]}, "properties": {"FID": 467, "ROUTE": "S DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.777]}, "properties": {"FID": 468, "ROUTE": "W MARTIN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.78]}, "properties": {"FID": 469, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.78]}, "properties": {"FID": 470, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.78]}, "properties": {"FID": 471, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.78]}, "properties": {"FID": 472, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.78]}, "properties": {"FID": 473, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.78]}, "properties": {"FID": 474, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.78]}, "properties": {"FID": 475, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 476, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 477, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 478, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.777]}, "properties": {"FID": 479, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.777]}, "properties": {"FID": 480, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.777]}, "properties": {"FID": 481, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 482, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.781]}, "properties": {"FID": 483, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.779]}, "properties": {"FID": 484, "ROUTE": "S SALISBURY ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.779]}, "properties": {"FID": 485, "ROUTE": "S SALISBURY ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.779]}, "properties": {"FID": 486, "ROUTE": "S SALISBURY ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.779]}, "properties": {"FID": 487, "ROUTE": "S SALISBURY ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.779]}, "properties": {"FID": 488, "ROUTE": "S SALISBURY ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.779]}, "properties": {"FID": 489, "ROUTE": "S SALISBURY ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.779]}, "properties": {"FID": 490, "ROUTE": "S SALISBURY ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.779]}, "properties": {"FID": 491, "ROUTE": "S SALISBURY ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.778]}, "properties": {"FID": 492, "ROUTE": "S SALISBURY ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.778]}, "properties": {"FID": 493, "ROUTE": "S SALISBURY ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.777]}, "properties": {"FID": 494, "ROUTE": "S SALISBURY ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.777]}, "properties": {"FID": 495, "ROUTE": "S SALISBURY ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.778]}, "properties": {"FID": 496, "ROUTE": "S SALISBURY ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.778]}, "properties": {"FID": 497, "ROUTE": "S SALISBURY ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.778]}, "properties": {"FID": 498, "ROUTE": "S SALISBURY ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.778]}, "properties": {"FID": 499, "ROUTE": "S SALISBURY ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.778]}, "properties": {"FID": 500, "ROUTE": "S SALISBURY ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.778]}, "properties": {"FID": 501, "ROUTE": "S SALISBURY ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.779]}, "properties": {"FID": 502, "ROUTE": "S SALISBURY ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.779]}, "properties": {"FID": 503, "ROUTE": "S SALISBURY ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.779]}, "properties": {"FID": 504, "ROUTE": "S SALISBURY ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.779]}, "properties": {"FID": 505, "ROUTE": "S SALISBURY ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.778]}, "properties": {"FID": 506, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 507, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 508, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 509, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 510, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 511, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.778]}, "properties": {"FID": 512, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.778]}, "properties": {"FID": 513, "ROUTE": "ALLEY", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.78]}, "properties": {"FID": 514, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 515, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.777]}, "properties": {"FID": 516, "ROUTE": "W MARTIN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.777]}, "properties": {"FID": 517, "ROUTE": "W MARTIN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.777]}, "properties": {"FID": 518, "ROUTE": "W MARTIN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.777]}, "properties": {"FID": 519, "ROUTE": "W MARTIN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.777]}, "properties": {"FID": 520, "ROUTE": "W MARTIN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.777]}, "properties": {"FID": 521, "ROUTE": "W MARTIN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.777]}, "properties": {"FID": 522, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.777]}, "properties": {"FID": 523, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.778]}, "properties": {"FID": 524, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.778]}, "properties": {"FID": 525, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.778]}, "properties": {"FID": 526, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.778]}, "properties": {"FID": 527, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.778]}, "properties": {"FID": 528, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.778]}, "properties": {"FID": 529, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 530, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 531, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 532, "ROUTE": "W HARGETT ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 533, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 534, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 535, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 536, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 537, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.78]}, "properties": {"FID": 538, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.78]}, "properties": {"FID": 539, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.78]}, "properties": {"FID": 540, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.78]}, "properties": {"FID": 541, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.78]}, "properties": {"FID": 542, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 543, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 544, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.778]}, "properties": {"FID": 545, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.778]}, "properties": {"FID": 546, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.778]}, "properties": {"FID": 547, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.781]}, "properties": {"FID": 548, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.777]}, "properties": {"FID": 549, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.777]}, "properties": {"FID": 550, "ROUTE": "S MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.781]}, "properties": {"FID": 551, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.781]}, "properties": {"FID": 552, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.781]}, "properties": {"FID": 553, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.781]}, "properties": {"FID": 554, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.781]}, "properties": {"FID": 555, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.781]}, "properties": {"FID": 556, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.781]}, "properties": {"FID": 557, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.781]}, "properties": {"FID": 558, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.781]}, "properties": {"FID": 559, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.781]}, "properties": {"FID": 560, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.781]}, "properties": {"FID": 561, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.781]}, "properties": {"FID": 562, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.781]}, "properties": {"FID": 563, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.781]}, "properties": {"FID": 564, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.781]}, "properties": {"FID": 565, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.781]}, "properties": {"FID": 566, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.78]}, "properties": {"FID": 567, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.78]}, "properties": {"FID": 568, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.78]}, "properties": {"FID": 569, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.78]}, "properties": {"FID": 570, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.78]}, "properties": {"FID": 571, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.78]}, "properties": {"FID": 572, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.78]}, "properties": {"FID": 573, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.78]}, "properties": {"FID": 574, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.78]}, "properties": {"FID": 575, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.78]}, "properties": {"FID": 576, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.781]}, "properties": {"FID": 577, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.781]}, "properties": {"FID": 578, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.781]}, "properties": {"FID": 579, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.781]}, "properties": {"FID": 580, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.781]}, "properties": {"FID": 581, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.781]}, "properties": {"FID": 582, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.781]}, "properties": {"FID": 583, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.781]}, "properties": {"FID": 584, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.781]}, "properties": {"FID": 585, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.781]}, "properties": {"FID": 586, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.781]}, "properties": {"FID": 587, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.781]}, "properties": {"FID": 588, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.641, 35.781]}, "properties": {"FID": 589, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.781]}, "properties": {"FID": 590, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.64, 35.78]}, "properties": {"FID": 591, "ROUTE": "S SALISBURY ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.779]}, "properties": {"FID": 592, "ROUTE": "S DAWSON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.778]}, "properties": {"FID": 593, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.778]}, "properties": {"FID": 594, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.779]}, "properties": {"FID": 595, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.78]}, "properties": {"FID": 596, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.78]}, "properties": {"FID": 597, "ROUTE": "W MORGAN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 598, "ROUTE": "W MORGAN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 599, "ROUTE": "W MORGAN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 600, "ROUTE": "W MORGAN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 601, "ROUTE": "W MORGAN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 602, "ROUTE": "W MORGAN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 603, "ROUTE": "W MORGAN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 604, "ROUTE": "W MORGAN ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.78]}, "properties": {"FID": 605, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.645, 35.78]}, "properties": {"FID": 606, "ROUTE": "S HARRINGTON ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.644, 35.78]}, "properties": {"FID": 607, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.643, 35.78]}, "properties": {"FID": 608, "ROUTE": "HILLSBOROUGH ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.781]}, "properties": {"FID": 609, "ROUTE": "N MCDOWELL ST", "STATUS": "Active"}}
+,{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-78.642, 35.781]}, "properties": {"FID": 610, "ROUTE": "N MCDOWELL ST", "STATUS": "Active"}}
+]}
